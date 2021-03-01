@@ -11,7 +11,7 @@ import java.util.List;
 @Configuration
 public class StudentConfig {
 
-    @Bean
+    @Bean //it is instantiated when the program is started
     CommandLineRunner commandLineRunner(StudentRepository studentRepository) {
         return args -> {
             Student studentA = new Student(
