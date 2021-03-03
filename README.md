@@ -4,7 +4,7 @@ barebones spring boot CRUD application involving basic student data
 
 # setup
 
-after downloading the repository I recommend opening it in you're chosen development environment
+after downloading the repository I recommend opening it in your chosen development environment
 my development environment uses postman and intelliJ IDEA
 
 ## postgresql db setup
